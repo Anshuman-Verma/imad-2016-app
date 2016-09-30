@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: white;
+    background-color: grey;
     margin-top: 60px;
 }
 
@@ -21,6 +21,7 @@ body {
 }
 
 .container {
+    background-color: grey;
     max-width: 800px;
     margin: 0 auto;
     color: grey;
