@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: white;
+    background-color: grey;
     margin-top: 60px;
 }
 
@@ -9,7 +9,7 @@ body {
 }
 
 .text-big {
-    font-size: 300px%;
+    font-size: 300px;
     
 }
 
@@ -34,8 +34,7 @@ body {
     color:blue;
     font-family: comic-sans-MS;
     text-align: left;
-    font-size: 150px%;
-    
+
 }
     
 
