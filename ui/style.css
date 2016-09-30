@@ -25,7 +25,6 @@ body {
     max-width: 800px;
     margin: 0 auto;
     color: grey;
-    font-family: sans-serif;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -35,6 +34,7 @@ body {
     color:blue;
     font-family: comic-sans-MS;
     text-align: left;
+    font-size: 150px%;
     
 }
     
