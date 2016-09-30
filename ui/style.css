@@ -9,7 +9,8 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 300px%;
+    
 }
 
 .bold {
@@ -28,3 +29,13 @@ body {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.bodycontent{
+    
+    color:blue;
+    font-family: comic-sans-MS;
+    text-align: left;
+    
+}
+    
+
