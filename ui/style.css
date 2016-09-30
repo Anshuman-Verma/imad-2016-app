@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: gray;
+    background-color: white;
     margin-top: 60px;
 }
 
@@ -30,7 +30,6 @@ body {
 }
 
 .bodycontent{
-    background-color: white;
     text-align: left;
     font-size: 30px;
 
