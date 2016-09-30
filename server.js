@@ -13,11 +13,11 @@ var ArticleOne = {
     `<div>
         <ol>
             <li>Anime</li>
-                <p>Anime is my interest since my childhod! It plays a key role in my life and taught me to never lose hope!</p>
+                <p>Anime is my interest since my childhod! It plays a key role in my life and taught me to never lose hope!</p><br>
             <li>Football</li>
-                <p>My key sport is football & I play at Winger or Striker position</p> 
+                <p>My key sport is football & I play at Winger or Striker position</p> <br>
             <li>Coding</li>
-                <p>Computer Science is in my blood.
+                <p>Computer Science is in my blood.<br>
         </ol>    
     </div>`
 };
