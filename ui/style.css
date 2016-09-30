@@ -24,13 +24,13 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    color: black;
+    color: gray;
     padding-left: 15px;
     padding-right: 15px;
 }
 
 .bodycontent{
-    
+    background-color: white;
     text-align: left;
     font-size: 30px;
 
